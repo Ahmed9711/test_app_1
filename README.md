@@ -1,1 +1,1 @@
-Ruby On Rails
+Hello I am new in ROR development.
